@@ -17,6 +17,6 @@ Abra o projeto no Android Studio e execute em um emulador ou dispositivo Android
 
 ## Integrantes
 
-- Nícolas James de Campos
-- Rodrigo Silva
-- Matheus Delapicula de Oliveira Tavares
+- Nícolas James de Campos 213804
+- Rodrigo Silva 242165
+- Matheus Delapicula de Oliveira Tavares 242628
